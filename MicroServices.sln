@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{6AAB8814-BE73-4CB3-A7CE-A9ECBF90025E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Catalog", "Catalog", "{9806A369-3512-45F9-9A39-C5EE96917C4E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FreeCourseServicesCatalog.API", "Services\Catalog\FreeCourseServicesCatalog.API\FreeCourseServicesCatalog.API.csproj", "{767F5F79-7A6D-490D-B61D-DDCB15B1C156}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SharedFiles", "SharedFiles", "{2B96E038-FD3B-4A06-869C-4B0A5BA76D49}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FreeCourse.Shared", "SharedFiles\FreeCourse.Shared\FreeCourse.Shared.csproj", "{731FD4BC-33D9-40A0-853B-80ACF4881833}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{767F5F79-7A6D-490D-B61D-DDCB15B1C156}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{767F5F79-7A6D-490D-B61D-DDCB15B1C156}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{767F5F79-7A6D-490D-B61D-DDCB15B1C156}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{767F5F79-7A6D-490D-B61D-DDCB15B1C156}.Release|Any CPU.Build.0 = Release|Any CPU
+		{731FD4BC-33D9-40A0-853B-80ACF4881833}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{731FD4BC-33D9-40A0-853B-80ACF4881833}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{731FD4BC-33D9-40A0-853B-80ACF4881833}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{731FD4BC-33D9-40A0-853B-80ACF4881833}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9806A369-3512-45F9-9A39-C5EE96917C4E} = {6AAB8814-BE73-4CB3-A7CE-A9ECBF90025E}
+		{767F5F79-7A6D-490D-B61D-DDCB15B1C156} = {9806A369-3512-45F9-9A39-C5EE96917C4E}
+		{731FD4BC-33D9-40A0-853B-80ACF4881833} = {2B96E038-FD3B-4A06-869C-4B0A5BA76D49}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {927A61A2-3A94-4458-B90B-18E78BEB62F5}
+	EndGlobalSection
+EndGlobal

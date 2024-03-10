@@ -1,0 +1,12 @@
+C:\Users\YAVUZ\source\repos\MicroServices\SharedFiles\FreeCourse.Shared\bin\Debug\net6.0\FreeCourse.Shared.deps.json
+C:\Users\YAVUZ\source\repos\MicroServices\SharedFiles\FreeCourse.Shared\bin\Debug\net6.0\FreeCourse.Shared.dll
+C:\Users\YAVUZ\source\repos\MicroServices\SharedFiles\FreeCourse.Shared\bin\Debug\net6.0\FreeCourse.Shared.pdb
+C:\Users\YAVUZ\source\repos\MicroServices\SharedFiles\FreeCourse.Shared\obj\Debug\net6.0\FreeCourse.Shared.csproj.AssemblyReference.cache
+C:\Users\YAVUZ\source\repos\MicroServices\SharedFiles\FreeCourse.Shared\obj\Debug\net6.0\FreeCourse.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YAVUZ\source\repos\MicroServices\SharedFiles\FreeCourse.Shared\obj\Debug\net6.0\FreeCourse.Shared.AssemblyInfoInputs.cache
+C:\Users\YAVUZ\source\repos\MicroServices\SharedFiles\FreeCourse.Shared\obj\Debug\net6.0\FreeCourse.Shared.AssemblyInfo.cs
+C:\Users\YAVUZ\source\repos\MicroServices\SharedFiles\FreeCourse.Shared\obj\Debug\net6.0\FreeCourse.Shared.csproj.CoreCompileInputs.cache
+C:\Users\YAVUZ\source\repos\MicroServices\SharedFiles\FreeCourse.Shared\obj\Debug\net6.0\FreeCourse.Shared.dll
+C:\Users\YAVUZ\source\repos\MicroServices\SharedFiles\FreeCourse.Shared\obj\Debug\net6.0\refint\FreeCourse.Shared.dll
+C:\Users\YAVUZ\source\repos\MicroServices\SharedFiles\FreeCourse.Shared\obj\Debug\net6.0\FreeCourse.Shared.pdb
+C:\Users\YAVUZ\source\repos\MicroServices\SharedFiles\FreeCourse.Shared\obj\Debug\net6.0\ref\FreeCourse.Shared.dll
