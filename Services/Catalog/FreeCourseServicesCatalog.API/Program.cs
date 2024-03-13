@@ -1,5 +1,6 @@
 using AutoMapper;
 using FreeCourseServicesCatalog.API.Dtos.Mapping;
+using FreeCourseServicesCatalog.API.Services;
 using FreeCourseServicesCatalog.API.Settings;
 using Microsoft.Extensions.Options;
 using System.Configuration;
@@ -11,6 +12,9 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+builder.Services.AddScoped<ICategoryService, CategoryService>();
+builder.Services.AddScoped<ICourseService, CourseService>();
 
 // Yapýlandýrmayý yükle
 builder.Configuration.AddJsonFile("appsettings.json");

@@ -44,3 +44,7 @@ C:\Users\YAVUZ\source\repos\MicroServices\Services\Catalog\FreeCourseServicesCat
 C:\Users\YAVUZ\source\repos\MicroServices\Services\Catalog\FreeCourseServicesCatalog.API\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
 C:\Users\YAVUZ\source\repos\MicroServices\Services\Catalog\FreeCourseServicesCatalog.API\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
 C:\Users\YAVUZ\source\repos\MicroServices\Services\Catalog\FreeCourseServicesCatalog.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\YAVUZ\source\repos\MicroServices\Services\Catalog\FreeCourseServicesCatalog.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\YAVUZ\source\repos\MicroServices\Services\Catalog\FreeCourseServicesCatalog.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\YAVUZ\source\repos\MicroServices\Services\Catalog\FreeCourseServicesCatalog.API\bin\Debug\net6.0\FreeCourse.Shared.dll
+C:\Users\YAVUZ\source\repos\MicroServices\Services\Catalog\FreeCourseServicesCatalog.API\bin\Debug\net6.0\FreeCourse.Shared.pdb
