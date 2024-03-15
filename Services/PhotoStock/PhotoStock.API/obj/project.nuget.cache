@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZYhLDFL3ljuBgygpKP+BBfwWljBNv84gAnmBFBAyEiuMXFee88QnoG/YPQmqEHvQIYIYSaEdyfIUqNaM2mbsIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\YAVUZ\\source\\repos\\MicroServices\\Services\\PhotoStock\\PhotoStock.API\\PhotoStock.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\YAVUZ\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\YAVUZ\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\YAVUZ\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\YAVUZ\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\YAVUZ\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\YAVUZ\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.local.sabis.subu.edu.tr/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
